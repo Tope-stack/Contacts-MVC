@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\Desktop\\ContactsMVC\\ContactsMVC\\ContactsMVC.csproj": {}
+    "C:\\Users\\USER\\Desktop\\Contacts-MVC\\ContactsMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\Desktop\\ContactsMVC\\ContactsMVC\\ContactsMVC.csproj": {
+    "C:\\Users\\USER\\Desktop\\Contacts-MVC\\ContactsMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Desktop\\ContactsMVC\\ContactsMVC\\ContactsMVC.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\Contacts-MVC\\ContactsMVC.csproj",
         "projectName": "ContactsMVC",
-        "projectPath": "C:\\Users\\USER\\Desktop\\ContactsMVC\\ContactsMVC\\ContactsMVC.csproj",
+        "projectPath": "C:\\Users\\USER\\Desktop\\Contacts-MVC\\ContactsMVC.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Desktop\\ContactsMVC\\ContactsMVC\\obj\\",
+        "outputPath": "C:\\Users\\USER\\Desktop\\Contacts-MVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",

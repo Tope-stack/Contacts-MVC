@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4Ljqs8j9eSnx7/2EMaRfd1j9Rdmq9efeXM/2hwwyaTGP8UaSNeQpggLLzPgJVOSElXp8xrZbrNIjTqAnjEwrSw==",
+  "dgSpecHash": "qq9+v4vDQwSD6O6jKUwlTvslOxLJlE9dDccn0SiVuoJ6D6geipf4uvOn6p6pe9CuUNblAHaov5KtSRXI6T8CnA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\Desktop\\ContactsMVC\\ContactsMVC\\ContactsMVC.csproj",
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\Contacts-MVC\\ContactsMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
